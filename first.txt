@@ -5,3 +5,7 @@ gitの練習をする
 .git rm
 
 文字化け
+
+あああああ
+
+git status
