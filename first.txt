@@ -9,3 +9,5 @@ gitの練習をする
 あああああ
 
 git status
+
+git diff
