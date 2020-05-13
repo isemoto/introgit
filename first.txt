@@ -1,2 +1,4 @@
 gitの練習をする
 追加のコメントです
+.git add
+.git commit
